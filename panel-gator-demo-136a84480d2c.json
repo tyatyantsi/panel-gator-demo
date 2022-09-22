@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "panel-gator-demo",
+  "private_key_id": "136a84480d2cbe48aae5a73be214705a64fdc8a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCurwtrgvdnIrTW\nS5vSQMtnNgjuSdGzqvfG/FI/uzC8z3n3OZhexz2yrLplFz2ZYq5VQlB8/dQxufCM\nb/3T8uk+zF1qYOfD2wYYcDUmbShtZLiafBgkjOQufIKWpi8WmDhgQEZGq1gHfFHn\nGw9flAQhAb7PcZOtog9+iPtWuR+Hj7iFG/ggaE2+8SYXjvK6WgCjzO58NG2Aqj+H\nJ+Z4LflZN4SGrIQDe9AAAHH/vJSKQdKiQnFy3ksBIccKw2ybEcuZbTNMJX885AeN\nwZETFeiNoRDlMthPo4uN8j74JDXfomjqpQxpuFwXwMDCxS3kM1q2pTZeMfftVU/G\nIJE4MVMvAgMBAAECggEARJBhV6AusnUdbNV9gk+7ZrX/WGRyImbTXW+xauFy9lEr\nar3ZEC59CZIhkUdHftqMWduvEvhgXupAQCc/Bn+cTHFTo0sI/UeNQ29bdUs4KIP1\nr3FQ2pvQfmyRp0bwSZqS2jiwPNHJOhryXNcyuA21dy0js3G9iNQI594lZPtBpGe/\nbfDy44nA0i5xbggC1+Wp6iGOlGNi/EAa/BoAYF4mCnI6aLnwa48i4ZG6eOFSPxHn\nrzPvyY4U1+tHxrdSPYcIDym1obq6qUOH5p28F2W1IajkhZ5rZg1pPuIG1sie0MCS\nb4piiJZO9krbu2QNKlXGemaB1n+y1tCXG/Um1aUiCQKBgQDZuDmJjjxq7vs7IVj5\nLF11A3ekmWuQm+fCkyKO9CmL7O1J5ouRqYfoQ5mti5wWtR79Po1FD1nUxZxMrJfM\nQYWSzrWMWWFF9u8HHxd0CzlCRNMQkWzCUfZw85Kd1JdaG6DW4ShrOb0wJUy2i1Hg\nDrV5Gdxxq4mal3F1GXgpjCynFwKBgQDNZbu8PIc2OcCrKOluKwECwO+oJEdsb0uk\n4i1ViqFRBOLYHb6FIh8cxJ7lba9gPxLQNBOHPtnC6FiuoXmJM/Ya7IvnvciS5qUZ\nupElkrvlsyV8xtllxruvgv+j6tgdSnLcrksnD9Z5JMb9T7XlsADPwHjkLQwAI9UO\nbJ/HVmRDqQKBgG6kYZEXGHsbUc895jJSqnfhuDaMxQ4rPL8z+Lb/O/HhCMGqiLkQ\nl4GggQOh1EPx7XqzBCXZZERt3D1W5JmnnpL5u2dEsNtWXyiWU1vkrEeSJFTiIowq\nDPxfu927gOMI8Vbh+6FqKUvDWNXXvVcJAo41Z0LY8sf+OGlS9S7gDn0nAoGBAMXI\nF63bzwt9MzTdsWGfUVrYdC3BuXEF/p4oGSVM16ePf+xBQAss3y6xepxMMVsJgVEx\nRDiwYbpYR8TowoJGoc4tR08Apdom9IZA67F1iS9XgVqUlBR3+JS6HPY3lqEl5lLw\nFnfnvUtsCZ00m2AwSafDm+WEJxEfb/Jy0Kx/WQ75AoGBAJBXh6DV7d9fYWsPeBmA\nct8Thg42zSUB275yc1OtafdKBnsIIKEgjxXOLTxitzV+5sOvgn6sJHAVuvFkxD5D\n/JtNrZYhqGj/gwbeB1XZl5vJsuwRXSCT/bDd7j8+PJELG4S5pcyja62IUqsdK7Ki\nCQngAp6nMkDgJi+vm7S4Xy99\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-actions@panel-gator-demo.iam.gserviceaccount.com",
+  "client_id": "112955352613679491138",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-actions%40panel-gator-demo.iam.gserviceaccount.com"
+}

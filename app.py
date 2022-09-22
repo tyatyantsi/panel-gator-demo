@@ -9,7 +9,7 @@ def exp_plot(origin, cylinders):
         .hvplot(x="mpg", y="hp")
     )
 
-continents = ["North America", "Asia", "Europe"]
+continents = ["North America", "Africa", "Europe"]
 origin = pn.widgets.Select(options=continents, name="Origin")
 cylinders = pn.widgets.IntSlider(name="Cylinders", start=4, end=8, step=1)
 template = pn.template.BootstrapTemplate(title="Example")
